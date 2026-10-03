@@ -3,8 +3,6 @@ Roblox Larp
 A browser extension that allows you to change the way your Robux balance is displayed on Roblox.
 
 📥 Installation
-Google Chrome / Microsoft Edge
-
 1. Download this GitHub repository.
 2. Extract the archive if necessary.
 3. Open your browser's extensions page
