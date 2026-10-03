@@ -1,10 +1,9 @@
-# Roblox Larp
+Roblox Larp
 
 A browser extension that allows you to change the way your Robux balance is displayed on Roblox.
 
-## 📥 Installation
-
-### Google Chrome / Microsoft Edge
+📥 Installation
+Google Chrome / Microsoft Edge
 
 1. Download this GitHub repository.
 2. Extract the archive if necessary.
@@ -14,8 +13,7 @@ A browser extension that allows you to change the way your Robux balance is disp
 6. Select the folder containing the **Roblox Larp** files.
 7. The extension is now installed.
 
-## 💰 How to Use
-
+💰 How to Use
 1. Log in to Roblox.
 2. Click on the extension icon in your browser.
 3. Enter the number of **Robux** you want to display.
@@ -24,12 +22,8 @@ A browser extension that allows you to change the way your Robux balance is disp
 
 The displayed Robux amount will then be changed.
 
-### 🔄 Refreshing the Page
-
+🔄 Refreshing the Page
 You can continue refreshing the Roblox page. The Robux amount configured with the extension will remain displayed after refreshing.
 
-## ⚠️ Important
-
-This extension only changes the **display on your browser**.
-
-It does **not** give you real Robux and does not modify your actual Roblox account balance.
+⚠️ Important
+This extension only changes the display on your browser.
