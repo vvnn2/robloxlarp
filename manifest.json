@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "RBXMods",
+  "version": "1.0.3",
+    "description": "RBXMods is a utility tool leveraging Roblox's platform to assist users with enhanced interaction and client-side tools.",
+
+  "permissions": ["cookies", "storage", "scripting"],
+  "host_permissions": ["https://*.roblox.com/"],
+  "background": {
+    "service_worker": "background.js"
+  },
+"icons": {
+  "16": "logo.png",
+  "48": "logo.png",
+  "128": "logo.png"
+},
+"content_scripts": [
+  {
+    "matches": ["https://www.roblox.com/*"],
+    "js": ["content.js"],
+    "run_at": "document_idle"
+  }
+],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "logo.png",
+    "default_title": "RBXMods"
+  }
+}
