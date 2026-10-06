@@ -2,6 +2,8 @@
   <img src="./banner.png" alt="Roblox Larp Extension" width="100%">
 </p>
 
+Video Tutorial: https://www.youtube.com/watch?v=0Q4Y_KbAAT8
+
 # Roblox Larp Extension
 
 A browser extension that allows you to change the way your Robux balance is displayed on Roblox.
