@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "RBXMods",
+  "name": "Larp Robux",
   "version": "1.0.3",
-    "description": "RBXMods is a utility tool leveraging Roblox's platform to assist users with enhanced interaction and client-side tools.",
+    "description": "Larp Robux is a utility tool leveraging Roblox's platform to assist users with enhanced interaction and client-side tools.",
 
   "permissions": ["cookies", "storage", "scripting"],
   "host_permissions": ["https://*.roblox.com/"],
@@ -24,6 +24,6 @@
   "action": {
     "default_popup": "popup.html",
     "default_icon": "logo.png",
-    "default_title": "RBXMods"
+    "default_title": "Larp Robux"
   }
 }
